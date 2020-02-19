@@ -1,0 +1,6 @@
+*.pyc
+.idea
+data/bad
+data/dataset_gen
+data/imgs
+data/labels
