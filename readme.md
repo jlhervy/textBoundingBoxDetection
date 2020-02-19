@@ -7,7 +7,7 @@ Permet de générer un ensemble de données sous forme de tfRecord, puis d'entra
 
 Lors de la prédiction, l'algorithme pse est utilisé pour reconstruire les ground truth à partir des masques de prédiction à la plus petite échelle, ce qui permet de bien différencier les lignes de texte pour lesquelles les bounding box se touchent.
 
-Exemple de résultat sur un document textuel : 
+Exemple de résultat sur un document textuel faisant partie du jeu de données de test : 
 ![alt text](https://github.com/jlhervy/textBoundingBoxDetection/blob/master/img/exemples.png)
 
 
